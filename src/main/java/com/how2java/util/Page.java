@@ -2,7 +2,6 @@ package com.how2java.util;
 
 public class Page {
 
-
 	int start=0;
 	int count = 5;
 	int last = 0;
